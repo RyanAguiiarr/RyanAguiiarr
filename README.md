@@ -19,6 +19,8 @@
   
 </div><br>
 
+![snake gif](https://github.com/RyanAguiiarr/RyanAguiiarr/blob/output/github-contribution-grid-snake.svg)
+
 
 Sou  o**Ryan Aguiar**, estudante do segundo ano de **Análise e Desenvolvimento de Sistemas** no **IFSP**.  
 
