@@ -1,6 +1,6 @@
 ## OII, Eu sou o Ryan !!!
 
-![RyanAguiiarr's Stats](https://github-readme-stats.vercel.app/api?username=RyanAguiiarr&theme=outrun&show_icons=true&hide_border=true&count_private=true)     ![RyanAguiiarr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyanAguiiarr&theme=outrun&hide_border=true)
+![RyanAguiiarr's Stats](https://github-readme-stats.vercel.app/api?username=RyanAguiiarr&theme=outrun&show_icons=true&hide_border=true&count_private=false)     ![RyanAguiiarr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyanAguiiarr&theme=outrun&hide_border=true)
 ![RyanAguiiarr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanAguiiarr&theme=outrun&show_icons=true&hide_border=true&layout=compact)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
