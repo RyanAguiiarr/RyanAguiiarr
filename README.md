@@ -1,10 +1,9 @@
 # 👋 Oii, eu sou o Ryan !!!
-
 <div align="center">
 
- ![RyanAguiiarr's Stats](https://github-readme-stats.vercel.app/api?username=RyanAguiiarr&theme=outrun&show_icons=true&hide_border=true&count_private=false)  ![RyanAguiiarr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyanAguiiarr&theme=outrun&hide_border=true) 
-
- ![RyanAguiiarr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanAguiiarr&theme=outrun&show_icons=true&hide_border=true&layout=compact&count_private=false)  
+| ![RyanAguiiarr's Stats](https://github-readme-stats.vercel.app/api?username=RyanAguiiarr&theme=outrun&show_icons=true&hide_border=true&count_private=false) | ![RyanAguiiarr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyanAguiiarr&theme=outrun&hide_border=true) |
+|---|---|
+| ![RyanAguiiarr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanAguiiarr&theme=outrun&show_icons=true&hide_border=true&layout=compact&count_private=false) |  
 
 </div>
 
