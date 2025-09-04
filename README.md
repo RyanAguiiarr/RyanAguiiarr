@@ -11,15 +11,21 @@
 
 ## 🚀 Sobre mim  
 
-Sou **Ryan Aguiar**, estudante do segundo ano de **Análise e Desenvolvimento de Sistemas** no **IFSP - Catanduva/SP**.  
+Sou Ryan Aguiar, Desenvolvedor Full Stack em formação e estudante do segundo ano de Análise e Desenvolvimento de Sistemas no IFSP - Catanduva/SP. Tenho mais de dois anos de experiência prática em desenvolvimento de software e atuação profissional como Técnico de Suporte em TI.
 
-- 🔭 Atualmente focado em **JavaScript, Node.js e SQL**  
-- 🌱 Estudando **desenvolvimento backend avançado** e **Python para análise de dados**  
-- 👯 Aberto para colaborar em **projetos de desenvolvimento web** e **otimização de banco de dados**  
-- 🤔 Preciso de ajuda em **algoritmos avançados e estruturas de dados em C**  
-- 💬 Pergunte-me sobre **APIs, backend e design de banco de dados**  
-- 📫 Contato: **ryan.c.aguiiarr@gmail.com**  
-- ⚡ Fun fact: apaixonado por **redes e infraestrutura de sistemas**  
+🔭 Focado em Java, Spring Boot, Node.js e React
+
+🌱 Aprofundando conhecimentos em arquitetura de microsserviços, segurança de aplicações e Python para IA
+
+👯 Aberto para colaborar em projetos full stack, APIs RESTful e aplicações escaláveis
+
+🤔 Buscando aprimorar em algoritmos avançados e estruturas de dados
+
+💬 Posso ajudar em design de banco de dados, backend e integração de APIs
+
+📫 Contato: ryan.c.aguiiarr@gmail.com
+
+⚡ Fun fact: entusiasta de redes, infraestrutura e automação com Docker/CI-CD
 
 ---
 
